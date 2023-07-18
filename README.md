@@ -2,4 +2,4 @@
 
 Mega web od TisknuVjeci.
 
-Skvělý .md soubor.
+Skvělý .md soubor
