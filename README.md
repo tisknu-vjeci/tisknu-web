@@ -1,5 +1,5 @@
-#TisknuVeb
+<h1>TisknuWEB</h1>
 
-Mega web od TisknuVjeci.
+Tohle je README.md
 
-Skvělý .md soubor
+TikTok: [@tisknuvjeci_](www.tiktok.com/@tisknuvjeci_)
