@@ -1,3 +1,0 @@
-function loggedIn() {
-    return true
-}
