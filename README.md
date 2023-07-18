@@ -2,4 +2,4 @@
 
 Tohle je README.md
 
-TikTok: [@tisknuvjeci_](www.tiktok.com/@tisknuvjeci_/)
+TikTok: [@tisknuvjeci_](https://www.tiktok.com/@tisknuvjeci_/)
