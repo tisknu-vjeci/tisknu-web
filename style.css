@@ -1,0 +1,38 @@
+.navbar {
+    /*float: right;*/
+    text-align: center;
+}
+head {
+    background-color: #161616;
+}
+body {
+    background-color: #161616;
+}
+.kontakt{
+    background: linear-gradient(to right,#C7493A ,#A33327);
+    color: #C9C8C8;
+    font-family: Trebuchet MS;
+    font-size: 17px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    padding: 14px 15px;
+    border: 0px solid #000;
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: auto;
+   }
+.kontakt:active{
+    transform: scale(0.85);
+    background: linear-gradient(to left,rgb(199, 70, 56) ,rgb(163, 51, 39));
+}
+h1 {
+    color: #FF4628;
+    text-align: center;
+}
+.tisknuveb {
+    position:sticky;
+    text-align: center;
+    color: #FF4628;
+    font-size: xx-large;
+}
